@@ -9,10 +9,12 @@ This entry-level introduction to phylogenetic methods demonstrates:
 4. Research questions that benefit from phylogenetic approaches and what tools to use
 
 Three practical exercises demonstrate:
-1.) Constructing an interpreting a maximum likelihood tree
-2.) Effects of recombination on phylogenetic trees
-3.) Time-scaling a phylogenetic tree
+
+1. Constructing an interpreting a maximum likelihood tree
+2. Effects of recombination on phylogenetic trees
+3. Time-scaling a phylogenetic tree
 
 PREREQUISITES
+
 The workshop assumes no prior knowledge of phylogenetic methods. 
 All tools required for the exercises are freely available online
